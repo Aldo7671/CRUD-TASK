@@ -13,6 +13,10 @@ Características principales
 - Filtrar tareas: Filtra las tareas por estado (pendiente, en progreso, completado).
 - Paginacion: Navega entre las tareas usando la paginacion.
 
+Tecnologias usadas:
+- Frontend: React, Vite, Axios.
+- Backend: Laravel, Eloquent, MySQL. 
+
 Instalacion Backend:
 
 1.- Clonar el repositorio:
